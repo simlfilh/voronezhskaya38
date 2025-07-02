@@ -99,14 +99,12 @@ with col2:
                     <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;">Связаться в VK</p>
                 </div>
-            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://t.me/svetik3626" target="_blank" style="margin-left: 5px; font-size: 25px;">
                     <i class="fab fa-telegram"></i></a>
                     <p style="margin: 0; font-size: 23px;">Связаться в TG</p>
                 </div>
-            <br>  
             <p>📞 <a href="tel:+79040200888">+79040200888</a></p>
             <br>
         </div>
