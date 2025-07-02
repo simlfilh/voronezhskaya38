@@ -131,14 +131,12 @@ with col8:
                     <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;">Связаться в VK</p>
                 </div>
-            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://t.me/knshnv" target="_blank" style="margin-left: 5px; font-size: 25px;">
                     <i class="fab fa-telegram"></i></a>
                     <p style="margin: 0; font-size: 23px;">Связаться в TG</p>
                 </div>
-            <br>  
             <p>📞 <a href="tel:+79136694212">+79136694212</a></p>
             <br>
         </div>
@@ -164,14 +162,12 @@ with col10:
                     <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;">Связаться в VK</p>
                 </div>
-            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://t.me/anechka0321" target="_blank" style="margin-left: 5px; font-size: 25px;">
                     <i class="fab fa-telegram"></i></a>
                     <p style="margin: 0; font-size: 23px;">Связаться в TG</p>
                 </div>
-            <br>  
             <p>📞 <a href="tel:+79149652360">+79149652360</a></p>
             <br>
         </div>
@@ -197,14 +193,12 @@ with col12:
                     <i class="fab fa-vk"></i></a>
                     <p style="margin: 0; font-size: 23px;">Связаться в VK</p>
                 </div>
-            <br>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
                 <div style="display: flex; align-items: center; gap: 10px; margin: 10px 0;">
                     <a href="https://t.me/opiummg" target="_blank" style="margin-left: 5px; font-size: 25px;">
                     <i class="fab fa-telegram"></i></a>
                     <p style="margin: 0; font-size: 23px;">Связаться в TG</p>
                 </div>
-            <br>  
             <p>📞 <a href="tel:+79126444412">+79126444412</a></p>
             <br>
         </div>
