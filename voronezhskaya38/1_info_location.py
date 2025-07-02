@@ -59,7 +59,7 @@ with col1:
         <div class="colored-container">
             <h3>Адрес: Санкт-Петербург, Воронежская ул., д. 38</h3>
                 <div class="text-indent-content">
-                    <p class="highlight-blue">Наиболее удобный маршрут от м. Ладожская:</p>
+                    <p class="highlight-blue">Наиболее удобный маршрут:</p>
                 </div>
             <br>
             <p>→ от м. Обводный канал 3 минуты пешком</p>  
