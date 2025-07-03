@@ -82,6 +82,17 @@ with col2:
                     """, unsafe_allow_html=True)
 st.divider()
 
+st.markdown("""
+    <div class="colored-container">
+            <div class="highlight-blue">
+                <div class="text-indent-content">
+                    <h3>🔐 Камера хранения | ЦОКОЛЬНЫЙ ЭТАЖ</h3> 
+                </div>
+            </div>
+    </div>
+            """, unsafe_allow_html=True)
+st.divider()
+
 st.markdown("**Контакты для связи:**")
 st.write("Заведующий общежитием: Малышева Елена Андреевна 👩🏼‍💼")
 st.markdown("""
