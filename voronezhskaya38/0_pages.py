@@ -7,6 +7,12 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+with st.sidebar:
+    st.link_button("Вернуться на главную", 
+                 "https://unecondorms.streamlit.app/",
+                 type="primary",  
+                 use_container_width=True)
+
 st.markdown(
     """
     <style>
