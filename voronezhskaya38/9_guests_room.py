@@ -94,8 +94,20 @@ st.divider()
 st.markdown("**Контакты для связи:**")
 st.write("Заведующий общежитием: Малышева Елена Андреевна 👩🏼‍💼")
 st.markdown("""
-    <p>📞 <a href="tel:+78124589730,4961">(812) 458-97-30 (внутр. 4961)</a></p>
-            """, unsafe_allow_html=True)
+    <style>
+        .custom-links a {
+            color: white !important;
+            text-decoration: none; 
+        }
+        .custom-links a:hover {
+            color: #ccc !important;  
+            text-decoration: underline; 
+        }
+    </style>
+    <div class="custom-links">
+        <p>📞 <a href="tel:+78124589730,4961">(812) 458-97-30 (внутр. 4961)</a></p>
+    </div>
+""", unsafe_allow_html=True)
 st.divider()
 
 st.markdown("🆘 Свяжитесь со студенческим советом через соответствующий раздел")
