@@ -226,7 +226,7 @@ with col5:
                 <h4>🗺️ Маршрут от ул. Воронежская, д. 38</h4>
                 <div class="route-detail">
                     <span>📏 Расстояние:</span>
-                    <span><strong>~3.5 км</strong></span>
+                    <span><strong>~2 км</strong></span>
                 </div>
                 <div class="route-detail">
                     <span>⏱️ Время в пути:</span>
@@ -289,7 +289,7 @@ with col7:
                 </div>
                 <div class="route-detail">
                     <span>⏱️ Время в пути:</span>
-                    <span><strong>~20-25 мин</strong></span>
+                    <span><strong>~10-15 мин</strong></span>
                 </div>
                 <div class="route-detail">
                     <span>🚌 Способ:</span>
