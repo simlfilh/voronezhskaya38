@@ -63,6 +63,9 @@ pages = {
         st.Page("13_access_mode.py", title="— Правила пропускного режима"),
         st.Page("14_bureau.py", title="— Бюро пропусков"),
         st.Page("15_rules_of_accommodation.py", title="— Правила проживания")
+    ],
+    "📱 НАШИ СОЦИАЛЬНЫЕ СЕТИ": [
+        st.Page("16_links.py", title="— Ссылки")
     ]
 }
 
