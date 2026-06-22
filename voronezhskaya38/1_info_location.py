@@ -73,14 +73,24 @@ with col2:
         </div>
                 """, unsafe_allow_html=True)
     st.components.v1.html("""
-        <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1000.0343624735921!2d30.347849476135128!3d59.914406765191515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x4696304c97ab5355%3A0x66d8c4333f3a046c!2z0J7QsdCy0L7QtNC90YvQuSDQutCw0L3QsNC7LCDQodCw0L3QutGCLdCf0LXRgtC10YDQsdGD0YDQsywgMTkyMDA3!3m2!1d59.91303!2d30.351233899999997!4m5!1s0x4696304ceca92f83%3A0xf3e6cbbbeff992de!2z0JLQvtGA0L7QvdC10LbRgdC60LDRjyDRg9C70LjRhtCwLCAzOCwg0KHQsNC90LrRgi3Qn9C10YLQtdGA0LHRg9GA0LM!3m2!1d59.9146272!2d30.3481731!5e0!3m2!1sru!2sru!4v1751464734667!5m2!1sru!2sru" 
-            width="600" 
-            height="430" 
-            style="border:0; border-radius: 10px;" 
-            allowfullscreen="" 
-            loading="lazy" 
-            referrerpolicy="no-referrer-when-downgrade">
-        </iframe>
+        <div style="position:relative;overflow:hidden;">
+            <a href="https://yandex.ru/maps/2/saint-petersburg/?utm_medium=mapframe&utm_source=maps" 
+                style="color:#eee;font-size:12px;position:absolute;top:0px;">
+                Санкт‑Петербург
+            </a>
+            <a href="https://yandex.ru/maps/2/saint-petersburg/?ll=30.349274%2C59.914342&mode=routes&rtext=59.914713%2C30.349703~59.914434%2C30.348826&rtt=mt&ruri=ymapsbm1%3A%2F%2Ftransit%2Fstop%3Fid%3Dstation__9805886~ymapsbm1%3A%2F%2Forg%3Foid%3D1256557715&utm_medium=mapframe&utm_source=maps&z=20.8" 
+                style="color:#eee;font-size:12px;position:absolute;top:14px;">
+                Яндекс Карты
+            </a>
+            <iframe 
+                src="https://yandex.ru/map-widget/v1/?ll=30.349274%2C59.914342&mode=routes&rtext=59.914713%2C30.349703~59.914434%2C30.348826&rtt=mt&ruri=ymapsbm1%3A%2F%2Ftransit%2Fstop%3Fid%3Dstation__9805886~ymapsbm1%3A%2F%2Forg%3Foid%3D1256557715&z=20.8" 
+                width="100%" 
+                height="400" 
+                frameborder="1" 
+                allowfullscreen="true" 
+                style="position:relative;border-radius: 10px;border: none;">
+            </iframe>
+        </div>
                     """, height=440)
 st.divider()
 
