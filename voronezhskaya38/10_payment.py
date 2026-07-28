@@ -131,3 +131,4 @@ st.markdown("""
 """, unsafe_allow_html=True)
 st.divider()
 
+# st.markdown("🆘 Свяжитесь со студенческим советом через соответствующий раздел")
