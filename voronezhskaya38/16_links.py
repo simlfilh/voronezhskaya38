@@ -14,32 +14,35 @@ st.markdown("""
            line-height: 1.0;
            font-size: 21px;
         }
-        .highlight-green {
-            background-color: #C8E6C9; 
-            border-radius: 10px;
-            padding: 20px;
-            margin-bottom: 20px;
-            position: relative;
+        .fab {
+           font-size: 24px;
+           color: #0088cc; /* Цвет иконок Telegram */
         }
-        .highlight-red {
-            background-color: #FFCDD2; 
-            border-radius: 10px;
-            padding: 20px;
-            margin-bottom: 20px;
-            position: relative;
+        .custom-links a {
+            color: white !important;
+            text-decoration: none; 
         }
-        .highlight-blue {
-            background-color: #B3E5FC;
-            border-radius: 10px;
-            padding: 20px;
-            margin-bottom: 20px;
-            position: relative;
+        .custom-links a:hover {
+            color: #ccc !important;  
+            text-decoration: underline; 
         }
-        .text-indent-content {
-            position: relative;
-            left: 20px;
-            color: black;
-            line-height: 1.4;
+        .support-container {
+            background-color: #e8f4f8;
+            border-radius: 10px;
+            padding: 15px;
+            margin-top: 10px;
+            border-left: 4px solid #0088cc;
+        }
+        .support-container p {
+            margin: 5px 0;
+            font-size: 16px;
+        }
+        .support-container a {
+            color: #0088cc !important;
+            text-decoration: none;
+        }
+        .support-container a:hover {
+            text-decoration: underline;
         }
     </style>
     <div class="colored-container">
@@ -72,5 +75,13 @@ st.markdown("""
     </div>
 """, unsafe_allow_html=True)
 st.divider()
+
+st.markdown("""
+    <div class="support-container">
+        <p><strong>🛠️ Техническая поддержка</strong></p>
+        <p>📧 <a href="mailto:savchenko.va@unecon.ru">savchenko.va@unecon.ru</a></p>
+        <p>📞 <a href="tel:+78124589730,4299">(812) 458-97-30, доб. 4299</a></p>
+    </div>
+""", unsafe_allow_html=True)
 
 st.markdown("🆘 Свяжитесь со студенческим советом через соответствующий раздел")
