@@ -110,8 +110,8 @@ st.markdown("""
     </div>
             """, unsafe_allow_html=True)
 st.divider()
-# убрать st.markdown(create_button("https://requestsunecondorms.streamlit.app/", "Оставить электронную заявку"), unsafe_allow_html=True)
-# убрать st.divider()
+st.markdown(create_button("https://requestsunecondorms.streamlit.app/", "Оставить электронную заявку"), unsafe_allow_html=True)
+st.divider()
 
 st.markdown("**Контакты для связи:**")
 st.write("Заведующий общежитием: Малышева Елена Андреевна 👩🏼‍💼")
