@@ -111,7 +111,7 @@ st.markdown("""
 st.markdown(create_button("https://appointmentzhbuforstudents.streamlit.app/", "Записаться на прием"), unsafe_allow_html=True)
 st.divider()
 
-st.header("Заместители начальника ЖБУ")
+st.header("Руководство ЖБУ")
 col3, col4 = st.columns([1, 2])
 with col3:
     st.image("администрация_в38/зам. начальника ЖБУ.jpg")
@@ -120,7 +120,7 @@ with col4:
         <div class="colored-container">
                 <div class="highlight-green">
                     <div class="text-indent-content">
-                        <h3>И. о. начальника ЖБУ</h3> 
+                        <h3>Начальник ЖБУ</h3> 
                     </div>
                 </div>
             <br>
