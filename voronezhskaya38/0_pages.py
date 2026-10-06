@@ -51,7 +51,8 @@ pages = {
     ],
     "📍 ЧТО ЕСТЬ В ОБЩЕЖИТИИ?": [
         st.Page("7_common_room.py", title="— Бытовое пространство"),
-        st.Page("8_student_room.py", title="— Студенческое пространство")
+        st.Page("8_student_room.py", title="— Студенческое пространство"),
+        st.Page("9_video.py", title="— Видеообзор")
         # st.Page("9_guests_room.py", title="— Гостевые блоки")
     ],
     "📋 ДОКУМЕНТЫ": [
