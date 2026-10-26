@@ -185,7 +185,7 @@ with col8:
                 </div>
             <br>
             <p><b>Васильева Валерия Михайловна 👩🏼‍💼</b></p>  
-            <p>🚪 Кабинет №5</p>  
+            <p>🚪 Кабинет №6</p>  
             <br>
                 <div class="highlight-green">
                     <div class="text-indent-content">
@@ -193,11 +193,11 @@ with col8:
                     </div>
                 </div>
             <br>
-            <p>ПН: 14:00 — 16:30</p>  
-            <p>ВТ: 14:00 — 16:30</p>  
+            <p>ПН: 14:00 — 16:00</p>  
+            <p>ВТ: 14:00 — 16:00</p>  
             <p>СР: приема нет</p>
-            <p>ЧТ: 14:00 — 16:30</p>
-            <p>ПТ: 13:00 — 15:00</p>
+            <p>ЧТ: 14:00 — 16:00</p>
+            <p>ПТ: приема нет</p>
             <br>
             <p>🍜 ОБЕД: 12:00 — 13:00</p>
         </div>
@@ -247,37 +247,6 @@ with col12:
                 </div>
             <br>
             <p><b>Томаев Азамат Александрович 👨‍💻</b></p>  
-            <p>🚪 Кабинет №5</p>  
-            <br>
-                <div class="highlight-green">
-                    <div class="text-indent-content">
-                        <h3>🕐 Часы приёма</h3> 
-                    </div>
-                </div>
-            <br>
-            <p>ПН: 14:00 — 16:30</p>  
-            <p>ВТ: 14:00 — 16:30</p>  
-            <p>СР: приема нет</p>
-            <p>ЧТ: 14:00 — 16:30</p>
-            <p>ПТ: 13:00 — 15:00</p>
-            <br>
-            <p>🍜 ОБЕД: 12:00 — 13:00</p>
-        </div>
-                """, unsafe_allow_html=True)
-
-col13, col14 = st.columns([1, 2])
-with col13:
-    st.image("администрация_в38/делопроизводитель 2.jpg")
-with col14:
-    st.markdown("""
-        <div class="colored-container">
-                <div class="highlight-blue">
-                    <div class="text-indent-content">
-                        <h3>Делопроизводитель</h3> 
-                    </div>
-                </div>
-            <br>
-            <p><b>Савченко Валерия Андреевна 👩‍💻</b></p>  
             <p>🚪 Кабинет №5</p>  
             <br>
                 <div class="highlight-green">
